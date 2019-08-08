@@ -57,17 +57,17 @@ GitHub 또는 전용 웹 사이트 [free-for.dev](free-for.dev)에서 목록을 
 ## 주요-클라우드-제공-업체
 
 ### 구글 클라우드 플랫폼
-        App Engine-하루 28 개의 프런트 엔드 인스턴스 시간, 하루에 9 개의 백엔드 인스턴스 시간
-        Cloud Firestore-1GB 스토리지, 50,000 회 읽기, 20,000 회 쓰기, 20,000 회 삭제
-        Compute Engine-1 개의 비선 점형 f1-micro, 30GB HDD, 5GB 스냅 샷 스토리지 (특정 지역으로 제한됨)
-        클라우드 스토리지-5GB, 1GB 네트워크 송신
-        Cloud Pub / Sub-한 달에 10GB의 메시지
-        클라우드 함수-한 달에 2 백만 건의 호출 (백그라운드 및 HTTP 호출 모두 포함)
-        Google Kubernetes Engine-모든 규모의 클러스터에 대한 클러스터 관리 수수료가 없습니다. 각 사용자 노드는 표준 Compute Engine 요금으로 청구됩니다
-        BigQuery-매월 1TB의 쿼리, 매월 10GB의 스토리지
-        클라우드 빌드-하루 120 분
-        클라우드 소스 리포지토리-최대 5 명의 사용자, 50GB 스토리지, 50GB 송신
-        자세한 전체 목록-https: //cloud.google.com/free/docs/gcp-free-tier#always-free-usage-limits 
+- App Engine - 하루 28 개의 프런트 엔드 인스턴스 시간, 하루에 9 개의 백엔드 인스턴스 시간
+- Cloud Firestore - 1GB 스토리지, 50,000 회 읽기, 20,000 회 쓰기, 20,000 회 삭제
+- Compute Engine - 1 개의 비선 점형 f1-micro, 30GB HDD, 5GB 스냅 샷 스토리지 (특정 지역으로 제한됨)
+- 클라우드 스토리지 - 5GB, 1GB 네트워크 송신
+- Cloud Pub / Sub - 한 달에 10GB의 메시지
+- 클라우드 함수 - 한 달에 2 백만 건의 호출 (백그라운드 및 HTTP 호출 모두 포함)
+- Google Kubernetes Engine - 모든 규모의 클러스터에 대한 클러스터 관리 수수료가 없습니다. 각 사용자 노드는 표준 Compute Engine 요금으로 청구됩니다
+- BigQuery - 매월 1TB의 쿼리, 매월 10GB의 스토리지
+- 클라우드 빌드 - 하루 120 분
+- 클라우드 소스 리포지토리 - 최대 5 명의 사용자, 50GB 스토리지, 50GB 송신
+- 자세한 전체 목록 - https: //cloud.google.com/free/docs/gcp-free-tier#always-free-usage-limits 
 
 ### 아마존 웹 서비스
         Amazon DynamoDB-25GB NoSQL DB
