@@ -14,7 +14,7 @@ GitHub 또는 전용 웹 사이트 [free-for.dev](free-for.dev)에서 목록을 
 
 ## 목차
 
-- [주요 클라우드 제공 업체의 무상 한도](##%20주요%20클라우드%20제공%20업체)
+- [주요 클라우드 제공 업체의 무상 한도](##주요-클라우드-제공-업체)
 - 분석, 이벤트 및 통계
 - API, 데이터 및 ML
 - 유물 보관소
@@ -56,7 +56,7 @@ GitHub 또는 전용 웹 사이트 [free-for.dev](free-for.dev)에서 목록을 
 
 ## 주요 클라우드 제공 업체
 
-    구글 클라우드 플랫폼
+### 구글 클라우드 플랫폼
         App Engine-하루 28 개의 프런트 엔드 인스턴스 시간, 하루에 9 개의 백엔드 인스턴스 시간
         Cloud Firestore-1GB 스토리지, 50,000 회 읽기, 20,000 회 쓰기, 20,000 회 삭제
         Compute Engine-1 개의 비선 점형 f1-micro, 30GB HDD, 5GB 스냅 샷 스토리지 (특정 지역으로 제한됨)
@@ -69,7 +69,7 @@ GitHub 또는 전용 웹 사이트 [free-for.dev](free-for.dev)에서 목록을 
         클라우드 소스 리포지토리-최대 5 명의 사용자, 50GB 스토리지, 50GB 송신
         자세한 전체 목록-https: //cloud.google.com/free/docs/gcp-free-tier#always-free-usage-limits 
 
-    아마존 웹 서비스
+### 아마존 웹 서비스
         Amazon DynamoDB-25GB NoSQL DB
         Amazon Lambda-매월 1 백만 건의 요청
         Amazon SNS-한 달에 1 백만 건의 게시
@@ -81,7 +81,7 @@ GitHub 또는 전용 웹 사이트 [free-for.dev](free-for.dev)에서 목록을 
         Amazon Code Pipeline-한 달에 1 개의 활성 파이프 라인
         자세한 전체 목록-https: //aws.amazon.com/free/ ? awsf.Free%20Tier%20Types=categories%23alwaysfree 
 
-    Microsoft Azure
+### Microsoft Azure
         앱 서비스-10 개의 웹, 모바일 또는 API 앱
         기능-한달에 백만 건의 요청
         DevTest Labs-빠르고 쉬운 린 개발 테스트 환경 지원
