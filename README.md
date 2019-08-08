@@ -212,31 +212,31 @@ Table of Contents
 
 ## CI / CD
 
-- ligurio / awesome-ci — 지속적인 통합 서비스 비교
-- Azure Pipelines — Linux, macOS 및 Windows 용 오픈 소스를위한 무제한 분으로 10 개의 무료 병렬 작업
-- codefresh.io — 평생 무료 플랜 : 빌드 1 개, 환경 1 개, 공유 서버, 무제한 공용 저장소
-- codeship.com — 월 100 건의 개인 빌드, 5 건의 프라이빗 프로젝트, 오픈 소스 무제한
-- circleci.com — 하나의 동시 빌드에 대해 무료
-- stackahoy.io — 100 % 무료입니다. 무제한 배포, 분기 및 빌드
-- travis-ci.org — 공개 GitHub 리포지토리 무료
-- semaphoreci.com — 오픈 소스 무료, 매월 100 건의 개인 빌드
-- shippable.com — 한 달에 150 번의 개인 빌드, 1 번의 빌드 컨테이너, 개인 및 공용 저장소에 대해 무료
-- appveyor.com — Windows 용 CD 서비스, 오픈 소스 용 무료
-- deployhq.com — 매일 10 번 배포하는 프로젝트 1 개 (월 30 회 빌드 분)
-- styleci.io — 공개 GitHub 리포지토리 만
-- buddybuild.com — 하나의 원활한 반복 시스템에서 iOS 및 Android 앱에 대한 피드백을 구축, 배포 및 수집
-- gitlab.com — GitLab의 CI 서비스를 사용하여 Git 리포지토리에서 직접 파이프 라인을 생성합니다. 2,000 분 / 월
-- buddy.works — 5 개의 무료 프로젝트와 1 개의 동시 실행이있는 CI / CD (매월 120 회 실행)
-- bitrise.io — 기본 또는 하이브리드 모바일 앱용 CI / CD입니다. 200 회의 무료 빌드 / 월 10 분의 빌드 시간과 두 명의 팀원. OSS 프로젝트는 45 분의 빌드 시간, +1의 동시성 및 무제한 팀 규모를 갖습니다. 
+- [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) — 지속적인 통합 서비스 비교
+- [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/) — Linux, macOS 및 Windows 용 오픈 소스를 위한 무제한 분으로 10개의 무료 병렬 작업
+- [codefresh.io](https://codefresh.io) — 평생 무료 플랜 : 빌드 1개, 환경 1개, 공유 서버, 무제한 공용 저장소
+- [codeship.com](https://codeship.com/) — 월 100건의 개인 빌드, 5건의 프라이빗 프로젝트, 오픈 소스 무제한
+- [circleci.com](https://circleci.com/) — 하나의 동시 빌드에 대해 무료
+- [stackahoy.io](https://stackahoy.io) — 100% 무료. 무제한 배포, 분기 및 빌드
+- [travis-ci.org](https://travis-ci.org/) — 공개 GitHub 리포지토리 무료
+- [semaphoreci.com](https://semaphoreci.com/) — 오픈 소스 무료, 매월 100건의 개인 빌드
+- [shippable.com](https://app.shippable.com/) — 한 달에 150번의 개인 빌드, 1번의 빌드 컨테이너, 개인 및 공용 저장소에 대해 무료
+- [appveyor.com](https://www.appveyor.com/) — Windows 용 CD 서비스, 오픈 소스 용 무료
+- [deployhq.com](https://www.deployhq.com/) — 매일 10번 배포하는 프로젝트 1개 (월 30회 빌드 분)
+- [styleci.io](https://styleci.io/) — 공개 GitHub 리포지토리 만
+- [buddybuild.com](https://www.buddybuild.com/) — 하나의 원활한 반복 시스템에서 iOS 및 Android 앱에 대한 피드백을 구축, 배포 및 수집
+- [gitlab.com](https://about.gitlab.com/product/continuous-integration/) — GitLab의 CI 서비스를 사용하여 Git 리포지토리에서 직접 파이프 라인을 생성합니다. 2,000 분 / 월
+- [buddy.works](https://buddy.works/) — 5 개의 무료 프로젝트와 1 개의 동시 실행이있는 CI/CD (매월 120회 실행)
+- [bitrise.io](https://www.bitrise.io/) — 기본 또는 하이브리드 모바일 앱용 CI/CD입니다. 200회의 무료 빌드 / 월 10분의 빌드 시간과 두 명의 팀원. OSS 프로젝트는 45분의 빌드 시간, +1의 동시성 및 무제한 팀 규모를 갖습니다. 
 
 ## 자동화된 브라우저 테스트
 
-- gridlastic.com — 최대 4 개의 동시 셀레늄 노드를 무료로 계획하여 Selenium Grid 테스트 / 10 그리드 시작 / 4,000 테스트 분 / 월
+- gridlastic.com — 최대 4개의 동시 셀레늄 노드를 무료로 계획하여 Selenium Grid 테스트 / 10 그리드 시작 / 4,000 테스트 분/월
 - saucelabs.com — 크로스 브라우저 테스트, 셀레늄 테스트 및 모바일 테스트, 오픈 소스 무료
 - browserstack.com — 수동 및 자동 브라우저 테스트, 무료 오픈 소스
 - everystep-automation.com — 웹 브라우저에서 수행 된 모든 단계를 기록 및 재생하고 적은 옵션으로 무료로 스크립트를 만듭니다.
 - Applitools.com — 웹, 기본 모바일 및 데스크탑 앱을위한 스마트 한 시각적 검증. 거의 모든 자동화 솔루션 (예 : Selenium 및 Karma) 및 원격 러너 (Sauce Labs, Browser Stack)와 통합됩니다. 오픈 소스 무료. 주당 검사 점이 제한된 단일 사용자를위한 프리 티어입니다.
-- checkbot.io — 웹 사이트가 50 개 이상의 SEO, 속도 및 보안 모범 사례를 따르는 지 테스트하는 브라우저 확장입니다. 소규모 웹 사이트를위한 프리 티어 
+- checkbot.io — 웹 사이트가 50개 이상의 SEO, 속도 및 보안 모범 사례를 따르는 지 테스트하는 브라우저 확장입니다. 소규모 웹 사이트를위한 프리 티어 
 
 ## 보안 및 PKI
 
@@ -269,20 +269,20 @@ Table of Contents
 
 ## 관리 시스템
 
-- bitnami.com — IaaS에 준비된 앱을 배포합니다. 1 개의 AWS 마이크로 인스턴스 무료 관리
-- jamf.com — iPad, iPhone 및 Mac의 장치 관리, 3 개의 장치 무료 
+- [bitnami.com](https://bitnami.com/) — IaaS에 준비된 앱을 배포합니다. 1개의 AWS 마이크로 인스턴스 무료 관리
+- [jamf.com](https://www.jamf.com/) — iPad, iPhone 및 Mac의 장치 관리, 3개의 장치 무료
 
 ## 로그 관리
 
-- bugfender.com — 24 시간 보존으로 최대 하루에 최대 100k 로그 라인 확보
-- humio.com — 7 일 보존으로 최대 2GB / 일 무료
-- logentries.com — 7 일 보존으로 최대 5GB / 월 무료
-- loggly.com — 단일 사용자에게는 무료입니다. lite 옵션 참조
-- logz.io — 최대 1GB / 일, 3 일 보존
-- papertrailapp.com — 48 시간 검색, 7 일 보관, 100MB / 월
-- rollbar.com — 최대 5000 개의 이벤트 / 월, 30 일 보존
-- sematext.com — 최대 500MB / 일, 7 일 보존
-- sumologic.com — 최대 500MB / 일, 7 일 보존 
+- [bugfender.com](https://bugfender.com/) — 24시간 보존으로 최대 하루에 최대 100k 로그 라인 확보
+- [humio.com](https://www.humio.com/) — 7일 보존으로 최대 2GB/일 무료
+- [logentries.com](https://logentries.com/) — 7일 보존으로 최대 5GB/월 무료
+- [loggly.com](https://www.loggly.com/) — 단일 사용자에게는 무료입니다. lite 옵션 참조
+- [logz.io](https://logz.io/) — 최대 1GB/일, 3일 보존
+- [papertrailapp.com](https://papertrailapp.com/) — 48시간 검색, 7일 보관, 100MB/월
+- [rollbar.com](https://rollbar.com) — 최대 5000개의 이벤트/월, 30일 보존
+- [sematext.com](https://sematext.com/logsene) — 최대 500MB/일, 7일 보존
+- [sumologic.com](https://www.sumologic.com/) — 최대 500MB/일, 7일 보존
 
 ## 번역 관리
 
